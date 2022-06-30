@@ -1,0 +1,12 @@
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\bin\Debug\net6.0\Projeto_teste2.deps.json
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\bin\Debug\net6.0\Projeto_teste2.dll
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\bin\Debug\net6.0\Projeto_teste2.pdb
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\Projeto_teste2.csproj.AssemblyReference.cache
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\Projeto_teste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\Projeto_teste2.AssemblyInfoInputs.cache
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\Projeto_teste2.AssemblyInfo.cs
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\Projeto_teste2.csproj.CoreCompileInputs.cache
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\Projeto_teste2.dll
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\refint\Projeto_teste2.dll
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\Projeto_teste2.pdb
+C:\Users\caique\Documents\GitHub\BE4_Teste\Projeto_teste2\Projeto_teste2\obj\Debug\net6.0\ref\Projeto_teste2.dll
